@@ -68,5 +68,20 @@ export const navItems = [
       link: "https://github.com/alecluis/PeriodicTables",
     },
   ];
-  
+
+  export const testimonials = [
+    {
+      quote:
+        "Alec is an up-and-coming programmer to watch!",
+      name: "Possibly you?",
+      title: "Manager, Coders of the Future",
+    },
+  ]  
+
+  export const companies = [
+    {
+      id: 1,
+      name: "Chegg Skills",
+    },
+  ];
   
