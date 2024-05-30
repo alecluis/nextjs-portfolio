@@ -57,4 +57,16 @@ export const navItems = [
       spareImg: "",
     },
   ];
+
+  export const projects = [
+    {
+      id: 1,
+      title: "Periodic Tables",
+      des: "A full-stack CRUD application which allows the user to create, edit, view, and delete a restaurant reservation.",
+      img: "/p1.svg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      link: "https://github.com/alecluis/PeriodicTables",
+    },
+  ];
+  
   
