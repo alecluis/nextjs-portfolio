@@ -6,6 +6,7 @@ import { navItems } from "@/data";
 import RecentProjects from "@/components/RecentProjects";
 import Clients from "@/components/Clients";
 import Experience from "@/components/Experience";
+import Footer from "@/components/Footer";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
         <RecentProjects />
         <Clients />
         <Experience />
+        <Footer />
       </div>
     </main>
   );
