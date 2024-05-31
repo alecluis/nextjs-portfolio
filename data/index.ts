@@ -84,4 +84,14 @@ export const navItems = [
       name: "Chegg Skills",
     },
   ];
+
+  export const workExperience = [
+    {
+      id: 1,
+      title: "Software Engineer Student",
+      desc: "Learned full-stack Javascript development",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+  ]
   
